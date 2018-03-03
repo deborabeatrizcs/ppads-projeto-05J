@@ -6,7 +6,7 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo do aplicativo é evitar a tentativa de assédio, violência ou até mesmo estupro contra a mulher além gerar visibilidade para casos de assédio e violência e, assim, identificar lugares violentos espalhados pelo país e definir as zonas em que há mais casos de assédio e dar luz a eles, sendo publicados as ocorrências e expostos para sociedade.  
+* Objetivo do aplicativo é evitar a tentativa de assédio, violência ou até mesmo estupro contra a mulher além gerar visibilidade para casos de assédio e violência e, assim, identificar lugares violentos espalhados pelo país e definir as zonas em que há mais casos de assédio, sendo publicados as ocorrências e expostos para sociedade.  
 
 ## Problema
 
@@ -18,17 +18,11 @@ esperadas do sistema.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Visibilidade: Ato pelo qual os itens(denúncias) cadastrados tornam-se válidos e disvulgados.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Não possui integração com outros sistemas.
  
 ## Interessados
 
