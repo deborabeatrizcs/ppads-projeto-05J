@@ -1,12 +1,12 @@
-# Documento de Visão do Projeto 
+# Documento de Visão do Projeto SafeGirls
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *Tomaz Mikio Sasaki*, 
+Este documento apresenta uma solução de software para o projeto *SafeGirls*, solicitado pelo cliente *Tomaz Mikio Sasaki*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Os objetivos deste documento são auxiliar na obtenção de informações dos usuários a cerca do aplicativo , do projeto ajudar a equipe desenvolvedora a ter uma visão alinhada sobre o escopo, melhorar a avaliação do desenvolvimento do software e validar com o cliente a visão da equipe de desenvolvimento acerca do aplicativo.
+* Objetivo do aplicativo é gerar visibilidade para casos de assédio e violência contra mulher e, assim, identificar lugares violentos espalhados pelo país e definir as zonas em que há mais casos de assédio e dar luz a eles, pois nem sempre são divulgados. 
 * Objetivo 2
 * Objetivo 3
 * etc.
@@ -16,7 +16,7 @@ esperadas do sistema.
 * Descrição do problema: Assédio sexual e a violência contra as mulheres.
 * Quem é afetado pelo problema: Mulheres de todas as idades.
 * Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Benefícios de uma boa solução: Aplicação Mobile que 
 
 ## Definições, abreviações e outros termos do domínio do problema
 
