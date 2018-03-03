@@ -7,6 +7,6 @@
 * Débora Beatriz de Couto Santos - 41406291
 * Renan Facchini - 31375200
 * Igor Teles - 31455220
-* Rodrigo Castro - 
-* Rafael -
+* Rodrigo Castro - 41237390
+* Rafael Gouvea - 41320077
 
