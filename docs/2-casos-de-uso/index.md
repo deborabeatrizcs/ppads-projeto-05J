@@ -48,7 +48,8 @@ Permite que sejam criados novos usuários no sistema.
 
 ## 2. Diagrama de casos de uso: Manter Usuário (UC01)
 
-![](exemplo-casos-uso.png)
+![](casodeuso.png)
+
 
 ## 2.1. Especificação dos casos de uso
 
@@ -89,7 +90,7 @@ Permite que sejam alterados cadastros de usuários no sistema.
 
 ## 3. Diagrama de casos de uso: Manter Usuário (UC01)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](casodeuso.png)
 
 ## 3.1. Especificação dos casos de uso
 
@@ -122,7 +123,7 @@ Descrição Permite que sejam excluídos cadastros de usuários do sistema.
 
 ## 4. Diagrama de casos de uso: Manter Usuário (UC01)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](casodeuso.png)
 
 ## 4.1. Especificação dos casos de uso
 
@@ -148,7 +149,7 @@ Permite que sejam visualizados os dados de cadastro de usuários do sistema.
 
 ## 5. Diagrama de casos de uso: Realizar Login (UC02)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](casodeuso.png)
 
 ## 5.1. Especificação dos casos de uso
 
@@ -188,7 +189,7 @@ Permite que usuários cadastrados tenham acesso a sua conta.
 
 ## 6. Diagrama de casos de uso: Consultar Denúncias (UC03)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](casodeuso.png)
 
 ## 6.1. Especificação dos casos de uso
 
@@ -223,7 +224,7 @@ Permite que usuários cadastrados e visitantes consultem denúncias.
 
 ## 7. Diagrama de casos de uso: Cadastrar Denúncia (UC04)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](casodeuso.png)
 
 ## 7.1. Especificação dos casos de uso
 
