@@ -18,25 +18,24 @@ esperadas do sistema.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Visibilidade: Ato pelo qual os itens(denúncias) cadastrados tornam-se válidos e disvulgados.
+* Visibilidade: Ato pelo qual os itens(denúncias) cadastrados tornam-se válidos e divulgados.
 
 ## Integração com outros sistemas
 
-* Não possui integração com outros sistemas.
- 
+* Não se aplica. 
+
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Débora Beatriz (Membro equipe geenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
+* Renan Facchini (Membro equipe geenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
+* Igor Teles (Membro equipe geenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
+* Rodrigo Castro (Membro equipe geenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
+* Rafael Gouvea (Membro equipe geenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Vitima de assédio e violência(Responsáveis por registrar denúncia): Usuário que possui acesso a aplicação e a registro de denuncias de forma anonima ou por meio de cadastro.
+* Visitante (Qualquer cidadão que tem curiosidade/ necessidade em verificar ocorrencia de assédio e violência em determinado local):   Usuários que possuem acesso a um computador desktop e/ou notebooks e acesso à internet.
 
 ## Funcionalidades do produto
 
@@ -46,23 +45,22 @@ esperadas do sistema.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Utilização da ferramenta de banco de dados. 
+* Uso de Web Service nas integrações, e na publicação de serviços externos (Internet/Intranet). 
+
 
 ## Protótipos de tela
 
-### Protótipos para funcionalidade 1
+### Protótipos para funcionalidade: Cadastro de Usuário
 
 ![](proto1.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade 2
+### Protótipos para funcionalidade: Cadastro de Denúncia
 
 ![](proto2.png)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade N
+### Protótipos para funcionalidade: Consulta de Denúncia
