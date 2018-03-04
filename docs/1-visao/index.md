@@ -53,16 +53,18 @@ esperadas do sistema.
 
 ### Protótipos para funcionalidade: Cadastro de Usuário
 
-![](proto1.png)
+![](cadsusuario.png)
 
 Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
 ### Protótipos para funcionalidade: Cadastro de Denúncia
 
-![](proto2.png)
+![](cadsdenuncia.png)
 
 Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
 ### Protótipos para funcionalidade: Consulta de Denúncia
+
+![](consdenuncia.png)
 
 Fonte: Exemplos gerados pelo assistente do **WIX.com**.
