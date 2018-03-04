@@ -255,13 +255,4 @@ Permite que usuários cadastrem uma denúncia de assédio.
 | 4) O usuário clica no botão de "Registrar".|
 | 5) O sistema efetua a denúncia, exibindo uma mensagem de sucesso ao visitante.|
 
-| Fluxo Alternativo (7b): O usuário cancela cadastro de denúncia. |
-|---|
-| 1) O usuário clica no botão de "Cancelar".|
-| 2) O sistema direciona usuário para página principal|
-
-| Fluxo Alternativo (7c): O Visitante cancela cadastro de denúncia. |
-|---|
-| 1) O visitante clica no botão de "Cancelar".|
-| 2) O sistema direciona visitante para página principal|
 
