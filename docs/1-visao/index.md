@@ -53,7 +53,7 @@ esperadas do sistema.
 
 ### Protótipos para funcionalidade: Cadastro de Usuário
 
-![](cadastro_usuario.png)
+![](cadastrar_usuario.png)
 
 Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
@@ -65,6 +65,6 @@ Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
 ### Protótipos para funcionalidade: Consulta de Denúncia
 
-![](consulta_denuncia.png)
+![](consultar_denuncia.png)
 
 Fonte: Exemplos gerados pelo assistente do **WIX.com**.
