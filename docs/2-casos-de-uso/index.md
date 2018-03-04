@@ -3,6 +3,7 @@
 ## 1. Diagrama de casos de uso: Manter Usuário (UC01)
 
 ![](casodeuso.png)
+![](casodeuso1.png)
 
 ## 1.1. Especificação dos casos de uso
 
