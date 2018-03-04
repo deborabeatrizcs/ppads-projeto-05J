@@ -55,12 +55,14 @@ esperadas do sistema.
 
 ![](proto1.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
 ### Protótipos para funcionalidade: Cadastro de Denúncia
 
 ![](proto2.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: Exemplos gerados pelo assistente do **WIX.com**.
 
 ### Protótipos para funcionalidade: Consulta de Denúncia
+
+Fonte: Exemplos gerados pelo assistente do **WIX.com**.
