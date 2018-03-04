@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de casos de uso: Manter Usuário (UC01)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](exemplo-casos-uso.png)
 
 ## 1.1. Especificação dos casos de uso
 
@@ -48,7 +48,7 @@ Permite que sejam criados novos usuários no sistema.
 
 ## 2. Diagrama de casos de uso: Manter Usuário (UC01)
 
-![Exemplo de diagrama dos casos de uso](exemplo-casos-uso.png)
+![](exemplo-casos-uso.png)
 
 ## 2.1. Especificação dos casos de uso
 
@@ -59,8 +59,8 @@ Permite que sejam alterados cadastros de usuários no sistema.
 | Campo          | Informação        |
 |---|---|
 | Identificador: | UC01              |
-| Nome:          | Registrar chamado |
-| Atores:        | Vítima de Assédio (Principal): altera apenas o seu próprio cadastro.|
+| Nome:          | Alterar Usuário |
+| Atores:        | Vítima de Assédio|
 | Sumário:       | Altera usuário no sistema |
 
 | Fluxo Principal |
@@ -134,8 +134,8 @@ Permite que sejam visualizados os dados de cadastro de usuários do sistema.
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Ver Usuário |
-| Atores:        | Vítima de Assédio : visualiza apenas seus dados cadastrais. |
-| Sumário:       | Visualiza cadastro do sistema |
+| Atores:        | Vítima de Assédio |
+| Sumário:       | Visualiza cadastro no sistema |
 
 | Fluxo Principal |
 |---|
@@ -161,7 +161,7 @@ Permite que usuários cadastrados tenham acesso a sua conta.
 | Identificador: | UC02              |
 | Nome:          | Realizar Login |
 | Atores:        | Vítima de Assédio |
-| Sumário:       | Exclui cadastro do sistema |
+| Sumário:       | Realiza login no sistema |
 
 | Fluxo Principal |
 |---|
