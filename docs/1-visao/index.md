@@ -22,15 +22,12 @@ esperadas do sistema.
 
 ## Integração com outros sistemas
 
-* Não se aplica. 
+* Google Maps
 
 ## Interessados
 
-* Débora Beatriz (Membro equipe gerenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
-* Renan Facchini (Membro equipe gerenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
-* Igor Teles (Membro equipe gerenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
-* Rodrigo Castro (Membro equipe gerenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
-* Rafael Gouvea (Membro equipe gerenciamento e desenvolvimento): Executar e gerir projeto, planejando, desenvolvendo e mantendo a documentação e o software.
+* Gerente de Projeto
+* Depto. de TI
 
 ## Usuários
 
