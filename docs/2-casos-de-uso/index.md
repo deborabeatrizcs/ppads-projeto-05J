@@ -122,27 +122,27 @@ Descrição Permite que sejam excluídos cadastros de usuários do sistema.
 | 2) Volta ao passo (2) do fluxo principal. |
 
 
-## 4. Diagrama de casos de uso: Manter Usuário (UC01)
+## 4. Diagrama de casos de uso: Acionar Botão (UC01)
 
 ![](casodeuso.png)
 
 ## 4.1. Especificação dos casos de uso
 
-Permite que sejam visualizados os dados de cadastro de usuários do sistema.
+Permite que o usuário acionar o botão e possivelmente receber ajuda. 
 
-### 4.2. Caso de uso **Ver Usuário**
+### 4.2. Caso de uso **Acionar botão*
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Ver Usuário |
 | Atores:        | Usuário |
-| Sumário:       | Visualiza cadastro no sistema |
+| Sumário:       | Aciona Botão do sistema |
 
 | Fluxo Principal |
 |---|
-| 1) O usuário clica em “Perfil” |
-| 2) O usuário é encaminhado para a página de perfil.                |
+| 1) O usuário clica no “Botão Pânico” |
+| 2) O Botão envia mensagem de ajuda para outros usuário com localização próximo.                |
 | 3) O usuário visualiza seus dados cadastrais. |
 | 4) O usuário clica na opção de voltar à página inicial. |
 | 5) O sistema encaminha o usuário para página inicial.|
