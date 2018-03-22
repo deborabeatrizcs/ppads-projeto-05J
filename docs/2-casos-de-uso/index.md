@@ -15,7 +15,7 @@ Permite que sejam criados novos usuários no sistema.
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Cadastar Uduário |
-| Atores:        | Vítima de Assédio |
+| Atores:        | Usuário |
 | Sumário:       | Cadastro do usuário no sistema. |
 
 | Fluxo Principal |
@@ -62,7 +62,7 @@ Permite que sejam alterados cadastros de usuários no sistema.
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Alterar Usuário |
-| Atores:        | Vítima de Assédio|
+| Atores:        | Usuário|
 | Sumário:       | Altera usuário no sistema |
 
 | Fluxo Principal |
@@ -103,7 +103,7 @@ Descrição Permite que sejam excluídos cadastros de usuários do sistema.
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Excluir Usuário |
-| Atores:        | Vítima de Assédio |
+| Atores:        | Usuário|
 | Sumário:       | Exclui cadastro do sistema |
 
 | Fluxo Principal |
@@ -136,7 +136,7 @@ Permite que sejam visualizados os dados de cadastro de usuários do sistema.
 |---|---|
 | Identificador: | UC01              |
 | Nome:          | Ver Usuário |
-| Atores:        | Vítima de Assédio |
+| Atores:        | Usuário |
 | Sumário:       | Visualiza cadastro no sistema |
 
 | Fluxo Principal |
@@ -162,7 +162,7 @@ Permite que usuários cadastrados tenham acesso a sua conta.
 |---|---|
 | Identificador: | UC02              |
 | Nome:          | Realizar Login |
-| Atores:        | Vítima de Assédio |
+| Atores:        | Usuário |
 | Sumário:       | Realiza login no sistema |
 
 | Fluxo Principal |
@@ -202,7 +202,7 @@ Permite que usuários cadastrados e visitantes consultem denúncias.
 |---|---|
 | Identificador: | UC03              |
 | Nome:          | Consultar Denúncias |
-| Atores:        | Vítima de Assédio (Principal): consulta suas próprias denúncias e qualquer outra. Visitante: pode consultar qualquer denúncia. |
+| Atores:        | Usuário (Principal) e Visitante|
 | Sumário:       | Consulta denúncias do sistema |
 
 | Fluxo Principal |
@@ -237,7 +237,7 @@ Permite que usuários cadastrem uma denúncia de assédio.
 |---|---|
 | Identificador: | UC04              |
 | Nome:          | Cadastrar Denúncias |
-| Atores:        | Vítima de Assédio (Principal)e Visitante |
+| Atores:        | Usuário |
 | Sumário:       | Cadastrar denúncias do sistema |
 
 | Fluxo Principal |
