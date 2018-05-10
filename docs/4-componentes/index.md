@@ -1,3 +1,3 @@
 # Detalhamento dos componentes
 
-![](arq-3.jpg)
+![](1.png)
