@@ -4,6 +4,3 @@
 
 
 
-
-![](implantacao.jpg)
-
